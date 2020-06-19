@@ -1210,6 +1210,12 @@ footer a:active {
 /*=======================================================
 			RESPONSIVE: 
 ========================================================*/
+@media all and (max-width: 992px) {
+	.core-nav .brand img {
+		margin: auto;
+	}
+}
+
 @media all and (max-width: 768px){
 	.slider-area .tabel .tabel-cell .slider-content h3 {
 		font-size: 18px;
